@@ -1,3 +1,4 @@
+# KR2: Гармажанов
 import os
 import socket
 
